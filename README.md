@@ -75,5 +75,3 @@ I enjoy solving problems using **Python** and **C programming**, and I’m passi
 - 📍 Location: Visakhapatnam, Andhra Pradesh, India  
 
 ---
-
-⭐️ From [Ardhi Aneesh Kumar](https://github.com/ardhi)  
