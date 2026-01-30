@@ -71,7 +71,7 @@ I enjoy solving problems using **Python** and **C programming**, and I’m passi
 
 ## 📫 Connect With Me  
 - 📧 Email: [ardhianeeshkumar@gmail.com](mailto:ardhianeeshkumar@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/Ardhi-Aneesh-Kumar]([https://www.linkedin.com/in/ardhi-aneesh-kumar-0aa058302])
+- 🔗 LinkedIn: [linkedin.com/in/Ardhi-Aneesh-Kumar](https://www.linkedin.com/in/ardhi-aneesh-kumar-0aa058302)
 - 📍 Location: Visakhapatnam, Andhra Pradesh, India  
 
 ---
