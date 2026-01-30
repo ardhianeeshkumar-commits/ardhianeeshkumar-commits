@@ -66,13 +66,6 @@ I enjoy solving problems using **Python** and **C programming**, and I’m passi
 ## 🏆 Achievements  
 - Represented the class in formal settings, advocating for student needs and contributing to decision-making processes.  
 
----
-
-## 📊 GitHub Stats  
-![Ardhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardhi&show_icons=true&theme=radical)  
-
-## 📈 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ardhi&layout=compact&theme=radical)  
 
 ---
 
